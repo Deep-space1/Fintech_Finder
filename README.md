@@ -6,7 +6,9 @@ This project demonstrates a startup that is building a new disruptive platform c
 
 The code contained in the crypto_wallet.py script file consists Ethereum transaction functions including wallet, wallet.derive_acount, get_balance, fromWei, estimateGas, sendRawTransaction, and others—have now been incorporated into Python functions that allows to automate the process of accessing them.
 
-Using streamlit and fintech_finder.py following operations are executed, 
+Using streamlit and fintech_finder.py following operations are executed,
+
+
 -Fetching and displaying the account balance associated with your Ethereum account address.
 
 -Calculating the total value of an Ethereum transaction, including the gas estimate, that pays a Fintech Finder candidate for their work.
